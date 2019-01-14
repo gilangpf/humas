@@ -46,6 +46,7 @@ body{
 .logo {
 	float:left;
 	padding-top: 4px;
+	vertical-align: center;
 	
 }
 .img-logo {
